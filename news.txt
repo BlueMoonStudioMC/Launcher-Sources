@@ -1,2 +1,1 @@
-Launcher Information System... 
-[@Team] Hier können die neusten Informationen eingetragen werden. Die werden dann im Launcher angezeigt! 🤩
+https://raw.githubusercontent.com/BlueMoonStudioMC/Launcher-Sources/main/testnews.txt
